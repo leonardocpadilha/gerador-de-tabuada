@@ -21,7 +21,7 @@ Se quiser rodar este projeto na sua máquina, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/leonardocpadilha/gerador-de-tabuada.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
